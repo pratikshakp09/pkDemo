@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"folderPath": "samplInput",
 				"container": "democontainer"
 			},
 			"columnDelimiter": ",",

@@ -1,0 +1,16 @@
+{
+	"name": "ds_AzSqlDB",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_AzSql",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "SalesLT",
+			"table": "Customer"
+		}
+	}
+}

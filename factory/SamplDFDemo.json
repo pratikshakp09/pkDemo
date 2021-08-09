@@ -1,0 +1,9 @@
+{
+	"name": "SamplDFDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8dbefe7a-1887-4e77-88e6-aeec09f3efa9",
+		"tenantId": "b1f0f11b-34fe-4dfb-910f-83ccc9fd3157"
+	}
+}

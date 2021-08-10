@@ -1,0 +1,9 @@
+{
+	"name": "SamplGitRepo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b51c2141-a309-48cb-8891-f32232f057a9",
+		"tenantId": "b1f0f11b-34fe-4dfb-910f-83ccc9fd3157"
+	}
+}

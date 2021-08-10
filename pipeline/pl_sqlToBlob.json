@@ -2,11 +2,6 @@
 	"name": "pl_sqlToBlob",
 	"properties": {
 		"description": "Dynamic copy",
-		"parameters": {
-			"FileName": {
-				"type": "string"
-			}
-		},
 		"annotations": []
 	}
 }
